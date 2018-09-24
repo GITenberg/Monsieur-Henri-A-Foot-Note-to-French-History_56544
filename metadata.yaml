@@ -1,6 +1,9 @@
 _repo: Monsieur-Henri-A-Foot-Note-to-French-History_56544
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: '"Monsieur Henri": A Footnote to French History'
+covers:
+- cover_type: archival
+  image_path: 56544-h/images/cover.jpg
 creator:
   author:
     agent_name: Guiney, Louise Imogen
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39368
     wikipedia: http://en.wikipedia.org/wiki/Louise_Imogen_Guiney
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56544#Monsieur-Henri-A-Foot-Note-to-French-History
 gutenberg_issued: '2018-02-12'
 gutenberg_type: Text
 identifiers:

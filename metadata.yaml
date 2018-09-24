@@ -1,0 +1,31 @@
+_repo: Monsieur-Henri-A-Foot-Note-to-French-History_56544
+_version: 0.0.1
+alternative_title: '"Monsieur Henri": A Footnote to French History'
+creator:
+  author:
+    agent_name: Guiney, Louise Imogen
+    aliases:
+    - Guiney, L.I.
+    - Guiney, L. I.
+    birthdate: 1861
+    deathdate: 1920
+    gutenberg_agent_id: '39368'
+    url: http://www.gutenberg.org/2009/agents/39368
+    wikipedia: http://en.wikipedia.org/wiki/Louise_Imogen_Guiney
+description: ''
+gutenberg_issued: '2018-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56544'
+  lccn: 04022629
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'La Rochejaquelein, Henri du Vergier, comte de, 1772-1794'
+- !lcsh 'France -- History -- Wars of the Vendée, 1793-1832'
+- !lcc 'DC'
+- GITenberg
+title: '"Monsieur Henri": A Foot-Note to French History'
+url: http://www.gutenberg.org/ebooks/56544
